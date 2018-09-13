@@ -26,3 +26,7 @@ onEnd ：function（）{} //结束回调   }）; $（'＃fly '）。play（）; 
   destroy（）; //移除dom
  }）;
 < / script >
+
+IE10以下，引入的src / requestAnimationFrame.js
+
+@support IE> = 7
